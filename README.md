@@ -25,11 +25,7 @@ Steps to run this script:
 
 7. Enter your email and password in config.ini file.
 8. Enter flipkart product URL in config.ini file.
-9. Enter your saved card CVV in config.ini file.  
-
-    *Required only if you want to choose card payment*
-
-10. Run `python script.py`
+9. Run `python script.py`
 
 ---
 Note:
