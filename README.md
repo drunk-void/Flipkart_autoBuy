@@ -33,4 +33,5 @@ Steps to run this script:
 
 ---
 Note:
-Make sure you have only one address in your flipkart account and only one card saved. Remove all extra credit and debit cards from Flipkart and PhonePe account.
+Make sure you have only one address in your flipkart account.
+This script can be used only for placing *Cash on Delivery* orders.
