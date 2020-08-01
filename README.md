@@ -5,7 +5,7 @@
 Steps to run this script:
 1. Clone or download this repository `git clone https://github.com/mchandolia/Flipkart_autoBuy.git`
 2. Run `cd Flipkart_autoBuy`
-3. Run `python3 -m venv Scripvenv`
+3. Run `python3 -m venv Scripvenv` 
 `source Scripvenv/bin/activate`
 4. Run `pip install -r requirements.txt`
     *for installing the required libraries in your python environment*
